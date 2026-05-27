@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "nombre": "Aether Pro ANC",
+    "categoria": "audio",
+    "precio": 299.99,
+    "stock": 8,
+    "imagen": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=600&q=80",
+    "descripcion": "Auriculares inalámbricos con cancelación activa de ruido premium. Diseñados para audiófilos que buscan el sonido más puro con materiales ultra confortables de cuero y aluminio cepillado."
+  },
+  {
+    "id": "2",
+    "nombre": "Chronos Smartwatch",
+    "categoria": "wearables",
+    "precio": 199.99,
+    "stock": 5,
+    "imagen": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=600&q=80",
+    "descripcion": "Reloj inteligente de diseño minimalista con pantalla AMOLED táctil, monitor de salud avanzado, GPS de alta precisión y batería de 14 días. Elegancia y tecnología en tu muñeca."
+  },
+  {
+    "id": "3",
+    "nombre": "Nebula Ambient Light",
+    "categoria": "smarthome",
+    "precio": 89.50,
+    "stock": 12,
+    "imagen": "https://images.unsplash.com/photo-1507646227500-4d389b0012be?auto=format&fit=crop&w=600&q=80",
+    "descripcion": "Lámpara de escritorio inteligente con control dinámico de temperatura de color y sincronización musical. Crea la atmósfera ideal para productividad o relajación."
+  },
+  {
+    "id": "4",
+    "nombre": "Kepler Mechanical Keyboard",
+    "categoria": "accesorios",
+    "precio": 149.99,
+    "stock": 6,
+    "imagen": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=600&q=80",
+    "descripcion": "Teclado mecánico premium con interruptores hot-swappable táctiles, retroiluminación RGB configurable, teclas PBT de doble inyección y chasis de aluminio pulido."
+  },
+  {
+    "id": "5",
+    "nombre": "Zenith Charging Pad",
+    "categoria": "accesorios",
+    "precio": 59.99,
+    "stock": 15,
+    "imagen": "https://images.unsplash.com/photo-1622445262465-2481c4574875?auto=format&fit=crop&w=600&q=80",
+    "descripcion": "Estación de carga inalámbrica de carga rápida de 15W revestida en cuero italiano. Carga simultáneamente tu smartphone, auriculares y smartwatch de forma elegante."
+  },
+  {
+    "id": "6",
+    "nombre": "Vortex Buds Pro",
+    "categoria": "audio",
+    "precio": 129.99,
+    "stock": 4,
+    "imagen": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=600&q=80",
+    "descripcion": "Auriculares in-ear con sonido envolvente 3D espacial, resistencia IPX7 al sudor y al agua, y estuche de carga inteligente con hasta 30 horas de reproducción total."
+  }
+]
