@@ -34,3 +34,6 @@ npm run dev
 
 - Datos de productos: `public/productos.json`.
 - Configuración de Vite: `vite.config.js`.
+
+Domains:
+https://tienda-react-ecommerce.vercel.app/
