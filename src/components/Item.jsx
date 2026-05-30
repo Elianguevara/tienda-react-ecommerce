@@ -1,4 +1,4 @@
-import React, { useState, useContext } from 'react';
+import { useState, useContext } from 'react';
 import { Link } from 'react-router-dom';
 import { ArrowRight, ShoppingBag, Check } from 'lucide-react';
 import { CartContext } from '../context/CartContext';

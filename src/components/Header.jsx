@@ -1,4 +1,3 @@
-import React from 'react';
 import { Link } from 'react-router-dom';
 import { Shield } from 'lucide-react';
 import NavBar from './NavBar';

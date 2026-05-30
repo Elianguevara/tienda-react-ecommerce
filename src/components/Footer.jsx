@@ -1,5 +1,3 @@
-import React from 'react';
-
 const teamMembers = [
   {
     id: 1,
